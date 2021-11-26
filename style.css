@@ -1,0 +1,37 @@
+body {
+    background: url("https://media.istockphoto.com/vectors/abstract-background-made-with-geometric-circles-in-yellow-and-blue-vector-id1144552402?k=20&m=1144552402&s=612x612&w=0&h=rjFPRCXYv0TlVPaFclDDF9HjCRcLbBmIxJIXvkoUVN0=");
+    background-size: cover;
+}
+.login_div
+{
+    background:skyblue;float: none;border-radius: 15px;
+}
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h3 {
+    font-family: Impact, 'Haettenschweiler', Arial Narrow Bold, sans-serif;
+}
+h4 {
+    font-family: Impact, 'Haettenschweiler', Arial Narrow Bold, sans-serif;
+}
+h6 {
+    font-family: Impact, 'Haettenschweiler', Arial Narrow Bold, sans-serif;
+}
+h5 {
+    font-family: Impact, 'Haettenschweiler', Arial Narrow Bold, sans-serif;
+}
+img {
+    width: 120px; 
+    height: 100px;
+    border: solid black 3px;
+    border-radius: 10px;
+}
+#output {
+        padding: 10px; width:80%;background:aqua;border-radius: 15px;
+}
+.room_name
+{
+	cursor: pointer;
+	font-size: 20px;
+}
